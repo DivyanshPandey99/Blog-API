@@ -1,5 +1,4 @@
 # Blog API
-Assignment for EazyPG Backend Developer.
 
 Endpoints - http://localhost:3000/api/
 
